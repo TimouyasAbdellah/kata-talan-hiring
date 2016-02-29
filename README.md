@@ -5,8 +5,7 @@
 De nous jours, le <b>TDD</b> (Test Driven Developpement) est une technique plus que demandée pour chaque nouveau devs.<br/><br/>
 <b>Kata</b> est un terme <b>japonais</b>  désignant une forme dans les arts martiaux japonais.
 Dans les arts martiaux,ils pratiquent et répétent les mêmes étapes pour parfaire les compétences et leurs habitudes.<br/> 
-De même, dans le logiciel, l'idée a été inventé par Dave Thomas.Le motif de cette idée est la même,  faire la pratique de répéter les tâches 
-pour rendre vos compétences parfaites.
+De même, dans le logiciel, l'idée a été inventé par Dave Thomas.Le motif de cette idée est le même,  faire la pratique de répéter les tâches pour rendre vos compétences parfaites.
 </p>
 
 <h1>The FizzBuzz Kata</h1> 
